@@ -6,5 +6,5 @@ You may upload your translation to its own mod page.
 
 I do not support Nexus Mods' Donation Points system due to its lack of transparency. You may not opt your translation into any kind of Donation Points / rewards system. Including a link to your personal donation page in your mod page description is fine.
 
-default.json by deathbygin
-de.json by creeperkatze
+default.json by deathbygin<br/>
+de.json by creeperkatze<br/>
