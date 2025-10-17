@@ -1,0 +1,25 @@
+{
+//Display Names
+"dbg.Arcadium.DisplayName": "Ferngill Arcadium",
+"dbg.ArcadiumOutdoors.DisplayName": "Ferngill Arcadium",
+"dbgArcadiumStopDisplay": "Ferngill Arcadium",
+"FerngillArcadium_JunimoPongArcadeMachine" : "Junimo Pong Arcade Machine",
+"FerngillArcadium_LabyrinthArcadeMachine" : "Labyrinth Arcade Machine",
+"FerngillArcadium_CropCrusherArcadeMachine" : "Crop Crusher Arcade Machine",
+"FerngillArcadium_SlimefallArcadeMachine" : "Slimefall Arcade Machine",
+"FerngillArcadium_ZuzuCityDriftArcadeMachine" : "Zuzu City Drift Arcade Machine",
+
+//Locational Messages
+//Examine Messages
+    "Strings.Arcadium.00": "It's an old barrel filled with... wires?",
+    "Strings.Arcadium.1": "I almost have enough tickets to buy the Junimo Pong Arcade Machine!",
+    "Strings.Arcadium.2": "Oh my... Are any of these game suitable for children?",
+    "Strings.Arcadium.3": "I wanna play Labyrinth! Come on!",
+    "Strings.Arcadium.4": "Who am I? Oh, don't worry about that. I simply keep things running smoothly here.",
+    "Strings.Arcadium.5": "What is an arcade doing in the middle of Ferngill Forest, anyways?",
+    "Strings.Arcadium.6": "I may have spent all of my tickets on Coffee without realizing there's no washroom here...",
+    "Strings.Arcadium.7": "JojaCola is my gaming fuel. I need more!",
+    "Strings.Arcadium.8": "I just need to stare at something other than a screen for a bit...",
+    "Strings.Arcadium.9": "The door is locked.",
+	"Strings.Arcadium.10": "The pool table doesn't seem to be very used.",
+}
