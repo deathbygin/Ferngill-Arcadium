@@ -1,6 +1,8 @@
 # Ferngill-Arcadium
 Community repo for Ferngill Arcadium translations. Pull your translated i18n json to have it reviewed and included with the next official Ferngill Arcadium build.
 
+https://ko-fi.com/deathbygin for Ferngill Arcadium progress posts.
+
 ## Permissions
 You may upload your translation to its own mod page.
 
