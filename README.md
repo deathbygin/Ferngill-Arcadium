@@ -1,6 +1,7 @@
 # Ferngill-Arcadium
 Community repo for Ferngill Arcadium translations. Pull your translated i18n json to have it reviewed and included with the next official Ferngill Arcadium build.
 
+https://www.nexusmods.com/stardewvalley/mods/37938 for the Ferngill Arcadium mod.<br/>
 https://ko-fi.com/deathbygin for Ferngill Arcadium progress posts.
 
 ## Permissions
