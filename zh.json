@@ -1,0 +1,25 @@
+{
+//Display Names
+"dbg.Arcadium.DisplayName": "芬吉尔街机竞技中心",
+"dbg.ArcadiumOutdoors.DisplayName": "芬吉尔街机竞技中心",
+"dbgArcadiumStopDisplay": "芬吉尔街机竞技中心",
+"FerngillArcadium_JunimoPongArcadeMachine" : "祝尼魔弹珠街机",
+"FerngillArcadium_LabyrinthArcadeMachine" : "迷宫街机",
+"FerngillArcadium_CropCrusherArcadeMachine" : "作物粉碎者街机",
+"FerngillArcadium_SlimefallArcadeMachine" : "坠落的史莱姆街机",
+"FerngillArcadium_ZuzuCityDriftArcadeMachine" : "祖祖城漂移街机",
+
+//Locational Messages
+//Examine Messages
+    "Strings.Arcadium.00": "这是一个相当陈旧的桶，里面竟然装满了...电线？",
+    "Strings.Arcadium.1": "再攒点奖券，我差不多就能把一台祝尼魔弹珠街机带回家了",
+    "Strings.Arcadium.2": "哦，天哪...这里有适合小孩子玩的游戏吗？",
+    "Strings.Arcadium.3": "我想要玩这个迷宫街机，拜托了，妈咪。",
+    "Strings.Arcadium.4": "你问我是谁？哦，请别在意，我只是想确保这里一切运转正常。",
+    "Strings.Arcadium.5": "话说回来，为什么这个街机竞技中心会开在森林中心？",
+    "Strings.Arcadium.6": "我好像把奖券全拿来买咖啡了...才想起这里连洗手间都没有...",
+    "Strings.Arcadium.7": "Joja可乐可是我的街机燃油饮！我得再来一罐！",
+    "Strings.Arcadium.8": "呼，我得让眼睛休息一样，看看屏幕之外的东西...",
+    "Strings.Arcadium.9": "这个门是锁着的",
+	"Strings.Arcadium.10": "这张台球桌看起来没什么人用。",
+}
