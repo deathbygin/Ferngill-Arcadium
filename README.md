@@ -11,3 +11,4 @@ I do not support Nexus Mods' Donation Points system due to its lack of transpare
 
 default.json by deathbygin<br/>
 de.json by creeperkatze<br/>
+zh.json by lik370217-maker<br/>
